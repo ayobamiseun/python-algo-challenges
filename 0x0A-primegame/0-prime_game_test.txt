@@ -45,4 +45,5 @@ Winner: Ben
 >>> print("Winner: {}".format(isWinner(10000, nums)))
 Winner: Maria
 
+
 """
